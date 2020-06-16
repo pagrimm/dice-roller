@@ -1,15 +1,14 @@
-# Project Name
-**for Epicodus**
+# Dice Roller
 **By Peter Grimm, 05.29.2020**
 
 ## Description
 
-Insert description here
+A simple dice roller page. Takes input for how many dice and how many sides those dice have and generates random(ish) rolls for them.
 
 ## Setup/Installation Requirements
 
 * Clone this repository 
-* Browse to the ` ` folder
+* Browse to the `dice-roller` folder
 * Open `index.html` in a browser of your choice
 
 ## Technologies Used
