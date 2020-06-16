@@ -1,5 +1,5 @@
 # Dice Roller
-**By Peter Grimm, 05.29.2020**
+**By Peter Grimm, 06.15.2020**
 
 ## Description
 
